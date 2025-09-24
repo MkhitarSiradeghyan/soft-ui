@@ -738,6 +738,9 @@ button {
   .hero_content {
     max-width: 320px;
   }
+  .benefits {
+    z-index: 999;
+  }
 
   .benefits_wrap {
     flex-direction: column;
